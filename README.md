@@ -22,7 +22,14 @@ It is a program in the Python programming language that can build a non-determin
   Research conducted for Thompson's Construction
 
   ```
-  https://www.youtube.com/watch?v=62JAy4oH6lU
+  * https://www.youtube.com/watch?v=62JAy4oH6lU
   ```
-
-### Installing
+  ### Links
+  
+* https://www.youtube.com/watch?v=62JAy4oH6lU
+* http://www.cs.may.ie/staff/jpower/Courses/Previous/parsing/node5.html
+* http://www.cs.may.ie/staff/jpower/Courses/Previous/parsing/node5.html
+* https://github.com/ianmcloughlin/slides-finite-automata/raw/master/slides.pdf
+* https://web.microsoftstream.com/video/1b3e7f4f-69e0-4316-853f-c63b14f9c36a
+* https://rosettacode.org/wiki/Parsing/Shunting-yard_algorithm
+* http://www.martinbroadhurst.com/shunting-yard-algorithm-in-python.htmlz
