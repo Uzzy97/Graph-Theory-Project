@@ -33,7 +33,7 @@ def shunt(infix):
         else:
             postfix = postfix + c
     
-    # Pop al remaining operators from stack to output.
+    # Pop all remaining operators from stack to output.
     while stack:
         postfix, stack = postfix + stack[:-1], stack[:-1]
 
