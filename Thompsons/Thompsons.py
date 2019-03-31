@@ -77,6 +77,6 @@ def compile(postfix):
             nfastack.append(nfa(initial, accept))
     # nfastack should only have a single nfa on it at this point.
     return nfastack.pop()
-#Tests
+# Few Tests
 print(compile("ab.cd.|"))
 print(compile("aa.*"))
